@@ -1,0 +1,23 @@
+body {
+  margin: 20px;
+}
+
+b {
+  color: rgb(95, 157, 212);
+}
+
+a {
+    color: rgb(17, 170, 160);
+}
+
+h1 {
+    font-stretch: ultra-expanded;
+}
+
+table {
+  margin-top: 20px; margin-bottom: 50px;
+}
+
+h5 {
+  margin-top: 20px
+}
